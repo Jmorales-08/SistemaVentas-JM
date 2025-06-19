@@ -42,7 +42,8 @@ public class Main {
             System.out.println("3. Ver carrito");
             System.out.println("4. Ver total a pagar");
             System.out.println("5. Ver total con descuentos");
-            System.out.println("6. Salir");
+            System.out.println("6. Ver resumen de compra");
+            System.out.println("7. Salir");
             System.out.print("Selecciona una opción: ");
             opcion = scanner.nextInt();
 
@@ -112,7 +113,7 @@ public class Main {
                     System.out.println("Opción no válida.");
             }
 
-        } while (opcion != 5);
+        } while (opcion != 7);
 
         scanner.close();
     }
