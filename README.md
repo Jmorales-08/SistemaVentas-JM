@@ -1,11 +1,11 @@
-# 🛒 Sistema de Ventas en Consola - Java
+# Sistema de Ventas en Consola - Java
 
-Proyecto educativo desarrollado con programación orientada a objetos (POO).  
+Proyecto desarrollado con programación orientada a objetos (POO).  
 Permite iniciar sesión, agregar productos a un carrito y aplicar descuentos al total.
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - 🔐 Inicio de sesión con verificación de usuario y contraseña
 - 📋 Menú interactivo por consola
@@ -18,7 +18,7 @@ Permite iniciar sesión, agregar productos a un carrito y aplicar descuentos al 
 
 ---
 
-## ▶️ Cómo ejecutar
+## ▶Cómo ejecutar
 
 1. Asegúrate de tener **Java 17+** instalado.
 2. Clona este repositorio o descarga los archivos.
